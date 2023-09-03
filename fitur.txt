@@ -1,0 +1,16 @@
+- Health Bar
+- Melee musuh
+- multi gun power up (duration)
+- health power up (kalau penuh ga bisa ambil)
+- Invrunrable dan flash ketika di hit
+- wave spawner
+- interact button
+- dead particle
+- power drop on death enemy
+- path finding (buat sendiri :D)
+- sfx gun dan interactable
+- pop up message box
+- transition level
+- Main menu
+- dark map
+- pause
